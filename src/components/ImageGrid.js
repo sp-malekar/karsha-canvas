@@ -18,7 +18,7 @@ const ImageGrid = ({ images }) => {
   const selectedImages = selectedParent !== null ? images[selectedParent]?.children : [];
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 p-4">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 p-4">
       {images.map((parent, parentIndex) => (
         <div key={parentIndex} className="border p-2 aspect-w-1 aspect-h-1" onClick={() => openImageView(parentIndex, 0)}>
           <div className="h-full overflow-y-auto">
