@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header className="bg-gray-800 text-white p-2">
       <div className="container mx-auto flex items-center justify-between">
-        {/* Logo and Krasha Canvas */}
+        {/* Logo and Karsha Canvas */}
         <div className="flex items-center">
           <div className="rounded-full overflow-hidden mr-2">
             <img
@@ -19,7 +19,7 @@ const Header = () => {
             />
           </div>
           <h4 style={customColorStyle} className="font-bold text-2xl sm:text-xl xs:text-lg">
-            Krasha Canvas
+            Karsha Canvas
           </h4>
         </div>
 
