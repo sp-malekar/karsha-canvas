@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/krasha-canvas/static/css/main.a9ae4b78.css",
+    "main.js": "/krasha-canvas/static/js/main.0efcfe1a.js",
+    "static/js/787.e83273d2.chunk.js": "/krasha-canvas/static/js/787.e83273d2.chunk.js",
+    "static/media/Temple.jpg": "/krasha-canvas/static/media/Temple.c96e4d1d3afebd195846.jpg",
+    "static/media/Ranges.jpg": "/krasha-canvas/static/media/Ranges.ff60a2f22e6d8c120373.jpg",
+    "static/media/Vikendi.jpg": "/krasha-canvas/static/media/Vikendi.3c26aefa7126083b530f.jpg",
+    "static/media/Forest.jpg": "/krasha-canvas/static/media/Forest.24b4e85ff3452ac9d206.jpg",
+    "static/media/SunFlowers.jpg": "/krasha-canvas/static/media/SunFlowers.2c39d1050036d28234ee.jpg",
+    "static/media/Shiva.jpg": "/krasha-canvas/static/media/Shiva.5528d2b996cd4f30cb7e.jpg",
+    "static/media/Ganesh.jpg": "/krasha-canvas/static/media/Ganesh.01245ea75f7965899549.jpg",
+    "static/media/Himalayas.jpg": "/krasha-canvas/static/media/Himalayas.6143073ad9ceef92d3b2.jpg",
+    "static/media/Krishna.jpg": "/krasha-canvas/static/media/Krishna.81bff06bb453dc5db6e1.jpg",
+    "static/media/Vally.jpg": "/krasha-canvas/static/media/Vally.57a33b5f62050870b7f0.jpg",
+    "static/media/City.jpg": "/krasha-canvas/static/media/City.66577395b0f4f974505a.jpg",
+    "static/media/Mountains.jpg": "/krasha-canvas/static/media/Mountains.ac025880683b4fdeeed0.jpg",
+    "static/media/japan.jpg": "/krasha-canvas/static/media/japan.ca8b2d8f925e01479ec3.jpg",
+    "static/media/Monument.jpg": "/krasha-canvas/static/media/Monument.eb3d288a7d90b9769e2e.jpg",
+    "static/media/logo.png": "/krasha-canvas/static/media/logo.ba976cc2aedd90dd8294.png",
+    "index.html": "/krasha-canvas/index.html",
+    "main.a9ae4b78.css.map": "/krasha-canvas/static/css/main.a9ae4b78.css.map",
+    "main.0efcfe1a.js.map": "/krasha-canvas/static/js/main.0efcfe1a.js.map",
+    "787.e83273d2.chunk.js.map": "/krasha-canvas/static/js/787.e83273d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ae4b78.css",
+    "static/js/main.0efcfe1a.js"
+  ]
+}
