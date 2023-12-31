@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/krasha-canvas/static/css/main.a9ae4b78.css",
-    "main.js": "/krasha-canvas/static/js/main.0efcfe1a.js",
+    "main.js": "/krasha-canvas/static/js/main.4cfb5fc2.js",
     "static/js/787.e83273d2.chunk.js": "/krasha-canvas/static/js/787.e83273d2.chunk.js",
     "static/media/Temple.jpg": "/krasha-canvas/static/media/Temple.c96e4d1d3afebd195846.jpg",
     "static/media/Ranges.jpg": "/krasha-canvas/static/media/Ranges.ff60a2f22e6d8c120373.jpg",
@@ -20,11 +20,11 @@
     "static/media/logo.png": "/krasha-canvas/static/media/logo.ba976cc2aedd90dd8294.png",
     "index.html": "/krasha-canvas/index.html",
     "main.a9ae4b78.css.map": "/krasha-canvas/static/css/main.a9ae4b78.css.map",
-    "main.0efcfe1a.js.map": "/krasha-canvas/static/js/main.0efcfe1a.js.map",
+    "main.4cfb5fc2.js.map": "/krasha-canvas/static/js/main.4cfb5fc2.js.map",
     "787.e83273d2.chunk.js.map": "/krasha-canvas/static/js/787.e83273d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9ae4b78.css",
-    "static/js/main.0efcfe1a.js"
+    "static/js/main.4cfb5fc2.js"
   ]
 }
